@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-family: "Bebas Neue", cursive; }
+
+#tableWithCds {
+  background: radial-gradient(circle, #f5c2d8 0%, #e5faff 100%); }
+
+#tableCart {
+  background: radial-gradient(circle, #edff88 0%, #c4f3ff 100%); }
+
+.card {
+  border: none !important; }
+  .card .cardGenere {
+    color: gray; }
+  .card .cardPrice {
+    color: green; }
+  .card img {
+    max-height: 250px;
+    max-width: 250px; }

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "artista": "The Beatles",
+    "album": "Let it be",
+    "genero": "Rock Internacional",
+    "precio": 4000,
+    "urlImagen": "images/LetItBe.jpg",
+    "descImagen": "Let It Be cover",
+    "cantidad": 0
+  },
+  {
+    "id": 2,
+    "artista": "AC/DC",
+    "album": "Highway to Hell",
+    "genero": "Rock Internacional",
+    "precio": 3000,
+    "urlImagen": "images/HighwayToHell.jpg",
+    "descImagen": "Highway to Hell cover",
+    "cantidad": 0
+  },
+  {
+    "id": 3,
+    "artista": "Arctic Monkeys",
+    "album": "AM",
+    "genero": "Rock Internacional",
+    "precio": 4500,
+    "urlImagen": "images/AM.jpg",
+    "descImagen": "AM cover",
+    "cantidad": 0
+  },
+  {
+    "id": 4,
+    "artista": "Charly García",
+    "album": "Say No More",
+    "genero": "Rock Nacional",
+    "precio": 2500,
+    "urlImagen": "images/SayNoMore.jpg",
+    "descImagen": "Say No More cover",
+    "cantidad": 0
+  },
+  {
+    "id": 5,
+    "artista": "Spinetta",
+    "album": "Kamikaze",
+    "genero": "Rock Nacional",
+    "precio": 2500,
+    "urlImagen": "images/Kamikaze.jpg",
+    "descImagen": "Kamikaze cover",
+    "cantidad": 0
+  },
+  {
+    "id": 6,
+    "artista": "Gustavo Cerati",
+    "album": "Bocanada",
+    "genero": "Rock Nacional",
+    "precio": 2500,
+    "urlImagen": "images/Bocanada.jpg",
+    "descImagen": "Bocanada cover",
+    "cantidad": 0
+  },
+  {
+    "id": 7,
+    "artista": "Radiohead",
+    "album": "Kid A",
+    "genero": "Rock Internacional",
+    "precio": 4500,
+    "urlImagen": "images/kida.jpg",
+    "descImagen": "kida cover",
+    "cantidad": 0
+  },
+  {
+    "id": 8,
+    "artista": "Depeche Mode",
+    "album": "Kid A",
+    "genero": "Rock Internacional",
+    "precio": 5500,
+    "urlImagen": "images/spirit.jpg",
+    "descImagen": "spirit cover",
+    "cantidad": 0
+  }
+]
